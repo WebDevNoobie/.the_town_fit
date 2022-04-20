@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/.the_town_fit/static/css/main.251dc696.css",
-    "main.js": "/.the_town_fit/static/js/main.92ce7908.js",
+    "main.css": "/.the_town_fit/static/css/main.24c4ce55.css",
+    "main.js": "/.the_town_fit/static/js/main.a51e3ec4.js",
     "static/js/787.00944377.chunk.js": "/.the_town_fit/static/js/787.00944377.chunk.js",
     "static/media/background.jpg": "/.the_town_fit/static/media/background.8cb22dd976974fee44ec.jpg",
+    "static/media/location.png": "/.the_town_fit/static/media/location.8d7bc08314bed3bc7547.png",
+    "static/media/equipment.png": "/.the_town_fit/static/media/equipment.080e834a34ac6c9afd4c.png",
     "static/media/strength.png": "/.the_town_fit/static/media/strength.adc616797f2974f8803b.png",
+    "static/media/price.png": "/.the_town_fit/static/media/price.1f738a3c7e038082e8e2.png",
+    "static/media/expert.png": "/.the_town_fit/static/media/expert.f0b1b2ccbae0a2207339.png",
     "static/media/health.png": "/.the_town_fit/static/media/health.f070a2395f66337f5e36.png",
     "static/media/scale.png": "/.the_town_fit/static/media/scale.2761b1fc4bc29722085c.png",
     "index.html": "/.the_town_fit/index.html",
-    "main.251dc696.css.map": "/.the_town_fit/static/css/main.251dc696.css.map",
-    "main.92ce7908.js.map": "/.the_town_fit/static/js/main.92ce7908.js.map",
+    "main.24c4ce55.css.map": "/.the_town_fit/static/css/main.24c4ce55.css.map",
+    "main.a51e3ec4.js.map": "/.the_town_fit/static/js/main.a51e3ec4.js.map",
     "787.00944377.chunk.js.map": "/.the_town_fit/static/js/787.00944377.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.251dc696.css",
-    "static/js/main.92ce7908.js"
+    "static/css/main.24c4ce55.css",
+    "static/js/main.a51e3ec4.js"
   ]
 }
