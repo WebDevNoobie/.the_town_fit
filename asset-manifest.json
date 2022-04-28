@@ -1,23 +1,36 @@
 {
   "files": {
-    "main.css": "/.the_town_fit/static/css/main.24c4ce55.css",
-    "main.js": "/.the_town_fit/static/js/main.a51e3ec4.js",
+    "main.css": "/.the_town_fit/static/css/main.be2939ce.css",
+    "main.js": "/.the_town_fit/static/js/main.00387ef8.js",
     "static/js/787.00944377.chunk.js": "/.the_town_fit/static/js/787.00944377.chunk.js",
+    "static/media/GYM7.JPG": "/.the_town_fit/static/media/GYM7.05a191c44d1396444ef5.JPG",
+    "static/media/GYM1.JPG": "/.the_town_fit/static/media/GYM1.0afaca47cdc267ee6936.JPG",
+    "static/media/GYM8.JPG": "/.the_town_fit/static/media/GYM8.e6a9e0daae45cf8c7011.JPG",
+    "static/media/GYM6.JPG": "/.the_town_fit/static/media/GYM6.149f2b630c64f06543c3.JPG",
     "static/media/background.jpg": "/.the_town_fit/static/media/background.8cb22dd976974fee44ec.jpg",
+    "static/media/shivanshu.png": "/.the_town_fit/static/media/shivanshu.db146baf10f11eb27acf.png",
+    "static/media/pramod.jpg": "/.the_town_fit/static/media/pramod.0b42432b852470fc62af.jpg",
+    "static/media/GYM4.JPG": "/.the_town_fit/static/media/GYM4.00e5119fb27bd6a34a88.JPG",
     "static/media/location.png": "/.the_town_fit/static/media/location.8d7bc08314bed3bc7547.png",
+    "static/media/GYM3.JPG": "/.the_town_fit/static/media/GYM3.e0a47494f7535779b2d5.JPG",
     "static/media/equipment.png": "/.the_town_fit/static/media/equipment.080e834a34ac6c9afd4c.png",
+    "static/media/anash.png": "/.the_town_fit/static/media/anash.aef6a5d53d627de3694b.png",
+    "static/media/GYM5.JPG": "/.the_town_fit/static/media/GYM5.4923a3169f9b077bb287.JPG",
+    "static/media/GYM2.JPG": "/.the_town_fit/static/media/GYM2.21d70d325428d42a2ed4.JPG",
+    "static/media/GYM9.JPG": "/.the_town_fit/static/media/GYM9.2ee1518d848cfd8da58c.JPG",
     "static/media/strength.png": "/.the_town_fit/static/media/strength.adc616797f2974f8803b.png",
     "static/media/price.png": "/.the_town_fit/static/media/price.1f738a3c7e038082e8e2.png",
     "static/media/expert.png": "/.the_town_fit/static/media/expert.f0b1b2ccbae0a2207339.png",
+    "static/media/Logo2.png": "/.the_town_fit/static/media/Logo2.afc92f5c8543e56fe092.png",
     "static/media/health.png": "/.the_town_fit/static/media/health.f070a2395f66337f5e36.png",
     "static/media/scale.png": "/.the_town_fit/static/media/scale.2761b1fc4bc29722085c.png",
     "index.html": "/.the_town_fit/index.html",
-    "main.24c4ce55.css.map": "/.the_town_fit/static/css/main.24c4ce55.css.map",
-    "main.a51e3ec4.js.map": "/.the_town_fit/static/js/main.a51e3ec4.js.map",
+    "main.be2939ce.css.map": "/.the_town_fit/static/css/main.be2939ce.css.map",
+    "main.00387ef8.js.map": "/.the_town_fit/static/js/main.00387ef8.js.map",
     "787.00944377.chunk.js.map": "/.the_town_fit/static/js/787.00944377.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24c4ce55.css",
-    "static/js/main.a51e3ec4.js"
+    "static/css/main.be2939ce.css",
+    "static/js/main.00387ef8.js"
   ]
 }
